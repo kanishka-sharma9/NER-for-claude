@@ -1,0 +1,9 @@
+fastapi
+pydantic
+mcp
+transformers
+torch
+fastmcp
+PyPDF2
+httpx
+uvicorn
